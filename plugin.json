@@ -1,0 +1,11 @@
+{
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"features": [
+		{
+			"code": "bq",
+			"explain": "快速记录你的想法",
+			"cmds": ["bq", "便签", "便利贴"]
+		}
+	]
+}
